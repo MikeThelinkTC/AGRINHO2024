@@ -1,27 +1,5 @@
 body {
-    background-color: #efe9e9;
-    }
+    background-color: #ffee00;
+
     
-    header{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color: #dd70b5;
-    }
-    
-    footer{
-    background-color: #dd70b5;
-    }
-    
-    .cabecalho_imagem{
-     width: 200px;
-     height: 200px;
-     border-radius: 50%;
-     padding: 20px;
-    }
-    
-    .cabecalho_menu-listaitem{
-        display: inline;
-        text-transform: uppercase;
-        margin-left: 10px;
     }
