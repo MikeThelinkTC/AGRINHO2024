@@ -1,11 +1,11 @@
 body{
 
-    background-color: rgb(183, 176, 176);
+    background-color: rgb(183, 176, 176);/*coloca uma cor de fundo*/
 
 }
 
 .cabecalho{
-    display: flex;
+    display: flex;/*muda a disposição do elementos para horizontal*/
     align-items: center;
     justify-content: space-between;
 }
@@ -34,5 +34,12 @@ align-items: center;
 
 .sobre_texto{
 
-padding: 40px;
+    padding: 40px;
+}
+
+.elementos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 }
